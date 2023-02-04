@@ -1,3 +1,10 @@
+shows red color if it goes above 15 celsius and blue color if it goes below 15 celsius and can adjust up to zero to two taps.
+
+![WhatsApp Image 2023-02-04 at 6 26 53 PM](https://user-images.githubusercontent.com/97376129/216768962-9fc14d3c-f07b-4d7b-a99a-9494d82c17ab.jpeg)
+
+![WhatsApp Image 2023-02-04 at 6 26 58 PM](https://user-images.githubusercontent.com/97376129/216768967-71134155-9782-453a-988c-5aa1ee54a3ec.jpeg)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
